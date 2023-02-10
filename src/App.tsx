@@ -1,6 +1,4 @@
-
 import './App.css'
-
 import Profi from './components/Profi';
 
 export default function App() {
@@ -8,7 +6,6 @@ export default function App() {
     <div>
       <img className="avatar" />
       <Profi />
-    </div>
-    
+    </div> 
   );
 }
