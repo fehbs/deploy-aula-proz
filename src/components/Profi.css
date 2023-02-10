@@ -78,9 +78,9 @@ button:focus-visible {
     .card {
         max-width: 100%;
         width: 100%;
-        padding: 10px 10px;
-        height: 90vh;
-         margin: 0 auto;
+        padding: 10px 0;
+        height: 80vh;
+        margin: 0 auto;
     }
     .card-section {
         max-width: 100%;
